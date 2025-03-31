@@ -46,7 +46,7 @@ class CarroEletrico extends Carro {
     }
 }
 
-public class Carros {
+public class Veículos {
     public static void main(String[] args) {
         Veiculo veiculo = new Veiculo("Fiat", "Uno", 2010);  
         Carro carro = new Carro("Volkswagen", "Gol", 2018, "Gasolina");  
